@@ -1,0 +1,23 @@
+.grammalecte-issue {
+	text-decoration: underline wavy var(--text-accent);
+	text-decoration-skip-ink: none;
+	text-underline-offset: 0.2em;
+	cursor: pointer;
+}
+
+.grammalecte-issue-grammar {
+	text-decoration-color: var(--color-blue);
+}
+
+.grammalecte-issue-spelling {
+	text-decoration-color: var(--color-red);
+}
+
+.grammalecte-status {
+	cursor: default;
+}
+
+.grammalecte-help {
+	margin-top: 0;
+	color: var(--text-muted);
+}

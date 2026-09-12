@@ -1,0 +1,10 @@
+{
+	"id": "grammalecte",
+	"name": "Grammalecte",
+	"version": "0.1.0",
+	"minAppVersion": "1.4.0",
+	"description": "French grammar and spell checking with Grammalecte, using a local server, a remote server, or a fully offline engine.",
+	"author": "unurled",
+	"authorUrl": "https://github.com/unurled",
+	"isDesktopOnly": false
+}
